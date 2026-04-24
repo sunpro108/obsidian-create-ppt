@@ -1,0 +1,9 @@
+{
+    "id": "create-ppt",
+    "name": "在文件夹创建PPT",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "在文件夹右键菜单添加“创建PPT文件”",
+    "author": "sunpro108",
+    "isDesktopOnly": false
+}
